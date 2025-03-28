@@ -1,10 +1,10 @@
-Hi 👋 My name is Kernel
+Hi 👋 I'm Kernel
 =======================
 
 Cheat Developer, Web Developer & Cybersecurity
 ----------------------------------------------
 
-I’ve been learning C++ and C# for the past 3 years, specializing in the development of external cheats to study reverse engineering and explore security vulnerabilities. Additionally, I have experience in cracking authorization systems, including SQL injection, Cross-Site Scripting (XSS), and software debugging techniques. Since early 2019, I’ve learned extensive experience in HTML and PHP, creating and hosting websites.
+I’ve been learning C++ and C# for the past 3 years, specializing in the development of cheats to study reverse engineering and explore security vulnerabilities. Additionally, I have experience in cracking authorization systems, including SQL injection, Cross-Site Scripting (XSS), and software debugging techniques. Since early 2019, I’ve learned extensive experience in HTML and PHP, creating and hosting websites.
 
 * 🌍  I'm based in Dallas, Texas
 * ✉️  You can contact me at [kernel@traces.lol](mailto:kernel@traces.lol)
