@@ -7,7 +7,7 @@ Cheat Developer, Web Developer & Cybersecurity
 I’ve been learning C++ and C# for the past 3 years, specializing in the development of cheats to study reverse engineering and explore security vulnerabilities. Additionally, I have experience in cracking authorization systems, including SQL injection, Cross-Site Scripting (XSS), and software debugging techniques. Since early 2019, I’ve learned extensive experience in HTML and PHP, creating and hosting websites.
 
 * 🌍  I'm based in Dallas, Texas
-* ✉️  You can contact me at [kernel@traces.lol](mailto:kernel@traces.lol)
+* ✉️  You can contact me at [kernel@uac.wtf](mailto:kernel@uac.wtf)
 * 🚀  I'm currently working on [Hypervisor Spoofer Project](http://traces.lol)
 * 🧠  I'm learning UE Architecture (Base) & Advanced Memory Manipulation
 
